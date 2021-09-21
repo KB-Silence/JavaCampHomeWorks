@@ -11,3 +11,7 @@
 ## [5. Gün | 1. Ödev](https://github.com/KB-Silence/JavaCampHomeWorks/tree/master/homework-5)
 ---
 ## [6. Gün | 1. Ödev](https://github.com/KB-Silence/JavaCampHomeWorks/tree/master/homework-6)<br>[6. Gün | 2. Ödev](https://github.com/KB-Silence/JavaCampHomeWorks/tree/master/homework-7)
+---
+## [HRMS-PostgreSQL](https://github.com/KB-Silence/JavaCampHomeWorks/tree/master/HRMS-PostgreSQL)
+---
+## [Northwind Projesi](https://github.com/KB-Silence/JavaCampHomeWorks/tree/master/northwind-project)
