@@ -1,5 +1,4 @@
-# Homework 1
-Engin Demiroğ hocamızın Yazılımcı Geliştirme (JAVA + REACT) Yetiştirme Kampı'nın 2.gün Ödevi
+# Day 2 | Homework 1
 
 Kodlama.io sitesinin ana sayfasının temsili görünümü oluşturulmuştur.
 Ana sayfada nitelikli nesnelerin değerleri ilgili özellik tutucu classlara gönderilmiştir.
